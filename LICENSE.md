@@ -1,4 +1,4 @@
-# 
+# Élite dex sandwiched bot scripts para Mac OS | Seguro dex sandwiched bot scripts para PC Windows. Con análisis de libro de órdenes y oyentes de eventos — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
